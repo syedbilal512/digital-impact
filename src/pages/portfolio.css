@@ -1,0 +1,155 @@
+.domain-cards{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    margin: 0 100px;
+
+}
+
+.domain-cards div {
+    flex: 1;   
+    padding: 20px 30px ;
+    text-align: center;
+}
+
+
+.domain-cards-black{
+    background-color: #2A363F;
+    color: white;
+}
+
+.domain-cards-blue{
+    background-color: #0796D6;
+    color: white;
+
+}
+
+.domain-cards-silver{
+    background-color: #F7F7F7;
+
+}
+
+.project-write{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 20px;
+}
+
+.project-write p{
+    margin: 30px;
+}
+
+.revive-text{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    color: #0796D6;
+    padding: 30px;
+    margin-left: 90px;
+    
+}
+
+.revive{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #F7F7F7;
+}
+
+.revive-img{
+    margin-right: 90px;
+}
+
+
+.revive-icon1{
+    font-size: 30px;
+}
+
+.voeux-text{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    color: #0796D6;
+    padding: 40px;
+    margin-right: 90px;
+    
+}
+
+.voeux{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #F7F7F7;
+}
+
+.voeux-img{
+    margin-left: 90px;
+}
+
+
+.voeux-icon1{
+    font-size: 30px;
+}
+
+
+.thekingz-text{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    color: #0796D6;
+    padding: 40px;
+    margin-right: 90px;
+    
+}
+
+.thekingz{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #F7F7F7;
+}
+
+.thekingz-img{
+    margin-right: 90px;
+}
+
+
+.thekingz-icon1{
+    font-size: 30px;
+}
+
+
+.unifresh-text{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    color: #0796D6;
+    padding: 40px;
+    margin-right: 90px;
+    
+}
+
+.unifresh{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #F7F7F7;
+}
+
+.unifresh-img{
+    margin-left: 90px;
+}
+
+
+.unifresh-icon1{
+    font-size: 30px;
+}
+
+.feel-free{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 20px;
+}
+
+.feel-free span{
+    color: #0796D6;
+}

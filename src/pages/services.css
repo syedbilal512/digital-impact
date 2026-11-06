@@ -1,0 +1,44 @@
+.we-provide{
+    margin: 30px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.we-provide span{
+    color: #0696d3;
+}
+
+.icon-card{
+    color: #0696d3;
+    padding: 15px 0 15px;
+    font-size: 20px;
+}
+
+.all-card span{
+    color: #0696d3;
+}
+
+.card-123,.card-45 {
+    display: flex;
+    gap: 30px;
+    padding: 0 40px 50px;
+    justify-content: center;
+    text-align: center;
+
+}
+
+.card-1, .card-2, .card-3, .card-4, .card-5{
+    border: 2px solid #0796D6;
+    border-top-width: 8px;
+    border-bottom-width: 12px ;
+    border-radius: 15px;
+    padding: 30px 20px;
+    width: 240px;
+    transition: transform 0.8s ease;
+    box-shadow: 0px 4px 10px rgba(7, 150, 214);
+
+}
+
+.card-1:hover, .card-2:hover, .card-3:hover, .card-4:hover, .card-5:hover {
+    transform: scale(1.15);
+}

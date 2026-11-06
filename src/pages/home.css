@@ -1,0 +1,61 @@
+.main1{
+    display: flex;  
+}
+
+
+
+.sdww-p{
+    flex: 1;
+    transform: translateY(50px);
+    margin-left: 10px;
+}
+
+.sdww-p hr{
+    border: none;
+    background-color: #0796D6;
+    height: 1px;
+    width: 100%;
+}
+
+.btn-wrapper{
+    text-align: right;
+    padding: 20px;
+}
+
+.sdww-p button{
+    text-align: right;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: none;
+    background-color: #0796D6;
+    color: white;
+    border-radius: 20px;
+    padding: 7px;
+
+}
+
+.services{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    font-weight: 900;
+}
+
+.digital{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    font-weight: 900;
+    color: #0796D6;
+}
+
+.welcome{
+    padding: 20px 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    font-weight: 900;
+    color: #0796D6;
+}
+
+.we_partner{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 20px 0px;
+    align-items: center;
+}
